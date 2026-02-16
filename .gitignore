@@ -40,6 +40,10 @@ outputs/
 *.h5
 *.weights
 
+# Large dataset files
+images_resized/
+segmentation_masks/
+
 # Logs
 *.log
 
