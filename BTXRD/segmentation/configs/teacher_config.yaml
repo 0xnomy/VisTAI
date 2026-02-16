@@ -1,0 +1,114 @@
+# UNet++ Teacher Model Configuration for Segmentation
+# =====================================================
+# Large capacity model for knowledge distillation source
+
+# Model
+model:
+  architecture: 'unetplusplus'  # 'unetplusplus' or 'deeplabv3plus'
+  encoder_name: 'resnet50'  # resnet50, resnet101, efficientnet-b4, resnext50_32x4d
+  encoder_weights: 'imagenet'
+  in_channels: 3
+  classes: 1  # Binary segmentation
+  decoder_channels: [256, 128, 64, 32, 16]
+
+# Training
+training:
+  # Two-phase training
+  phase1_epochs: 10  # Train decoder with frozen encoder
+  phase2_epochs: 50  # Fine-tune entire network
+  total_epochs: 60
+  
+  batch_size: 8  # Larger model needs smaller batch
+  num_workers: 4
+  pin_memory: true
+  
+  # Optimizer
+  optimizer:
+    name: 'AdamW'
+    lr_phase1: 0.001      # Higher LR for frozen encoder
+    lr_phase2: 0.00005    # Lower LR for fine-tuning
+    weight_decay: 0.0001
+    betas: [0.9, 0.999]
+  
+  # Learning rate scheduler
+  scheduler:
+    name: 'ReduceLROnPlateau'
+    mode: 'max'  # Monitor Dice score
+    factor: 0.5
+    patience: 7
+    min_lr: 0.0000001
+  
+  # Loss function
+  loss:
+    dice_weight: 0.6
+    bce_weight: 0.4
+    smooth: 1.0
+    # Optional: add boundary loss
+    use_boundary_loss: false
+    boundary_weight: 0.1
+  
+  # Regularization
+  use_ema: true
+  ema_decay: 0.9999
+  gradient_clip: 1.0
+  use_mixed_precision: true
+  
+  # Early stopping
+  early_stopping:
+    enabled: true
+    patience: 15
+    monitor: 'val_dice'
+    mode: 'max'
+
+# Data
+data:
+  train_csv: 'segmentation_train.csv'
+  val_csv: 'segmentation_val.csv'
+  test_csv: 'segmentation_test.csv'
+  
+  image_size: 256  # UNet++ works well with 256x256
+  
+  # Data augmentation
+  augmentation:
+    # Geometric
+    rotation_limit: 20
+    shift_limit: 0.1
+    scale_limit: 0.15
+    
+    # Intensity
+    brightness_limit: 0.2
+    contrast_limit: 0.2
+    
+    # Other
+    horizontal_flip: true
+    vertical_flip: false
+    elastic_transform: true
+    grid_distortion: true
+
+# Output
+output:
+  save_dir: 'segmentation/outputs/teacher_model'
+  checkpoint_dir: 'checkpoints'
+  log_dir: 'logs'
+  results_dir: 'results'
+  
+  save_frequency: 5
+  save_best_only: true
+  
+  # Save features for distillation
+  save_features: true
+
+# Logging
+logging:
+  use_tensorboard: false
+  log_frequency: 10
+  
+  # Visualize predictions during validation
+  visualize_predictions: true
+  num_vis_samples: 4
+
+# Random seed
+seed: 42
+
+# Device
+device: 'cuda'

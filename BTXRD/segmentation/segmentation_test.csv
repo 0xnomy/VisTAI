@@ -1,0 +1,188 @@
+image_path,image_filename,mask_path,has_mask,labels,num_labels
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001608.jpeg,IMG001608.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001608_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000479.jpeg,IMG000479.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000479_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000739.jpeg,IMG000739.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000739_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000951.jpeg,IMG000951.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000951_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001612.jpeg,IMG001612.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001612_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001845.jpeg,IMG001845.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001845_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000949.jpeg,IMG000949.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000949_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000122.jpeg,IMG000122.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000122_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001526.jpeg,IMG001526.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001526_mask.png,True,giant cell tumor,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000794.jpeg,IMG000794.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000794_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001032.jpeg,IMG001032.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001032_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001758.jpeg,IMG001758.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001758_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001460.jpeg,IMG001460.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001460_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001544.jpeg,IMG001544.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001544_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000431.jpeg,IMG000431.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000431_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000368.jpeg,IMG000368.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000368_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000283.jpeg,IMG000283.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000283_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000302.jpeg,IMG000302.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000302_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001131.jpeg,IMG001131.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001131_mask.png,True,synovial osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001860.jpeg,IMG001860.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001860_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001704.jpeg,IMG001704.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001704_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001653.jpeg,IMG001653.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001653_mask.png,True,osteofibroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001770.jpeg,IMG001770.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001770_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000725.jpeg,IMG000725.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000725_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000749.jpeg,IMG000749.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000749_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001091.jpeg,IMG001091.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001091_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000754.jpeg,IMG000754.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000754_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001690.jpeg,IMG001690.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001690_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001047.jpeg,IMG001047.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001047_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000266.jpeg,IMG000266.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000266_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001865.jpeg,IMG001865.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001865_mask.png,True,other mt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001729.jpeg,IMG001729.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001729_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001330.jpeg,IMG001330.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001330_mask.png,True,osteofibroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001012.jpeg,IMG001012.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001012_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001676.jpeg,IMG001676.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001676_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000399.jpeg,IMG000399.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000399_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001278.jpeg,IMG001278.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001278_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001301.jpeg,IMG001301.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001301_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000306.jpeg,IMG000306.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000306_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000719.jpeg,IMG000719.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000719_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001337.jpeg,IMG001337.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001337_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000878.jpeg,IMG000878.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000878_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001782.jpeg,IMG001782.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001782_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000032.jpeg,IMG000032.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000032_mask.png,True,other mt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001234.jpeg,IMG001234.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001234_mask.png,True,synovial osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000788.jpeg,IMG000788.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000788_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001143.jpeg,IMG001143.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001143_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001087.jpeg,IMG001087.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001087_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001512.jpeg,IMG001512.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001512_mask.png,True,giant cell tumor,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000192.jpeg,IMG000192.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000192_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000860.jpeg,IMG000860.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000860_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000596.jpeg,IMG000596.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000596_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000409.jpeg,IMG000409.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000409_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001392.jpeg,IMG001392.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001392_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000614.jpeg,IMG000614.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000614_mask.png,True,osteofibroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000816.jpeg,IMG000816.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000816_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000892.jpeg,IMG000892.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000892_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001783.jpeg,IMG001783.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001783_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001757.jpeg,IMG001757.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001757_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000746.jpeg,IMG000746.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000746_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001737.jpeg,IMG001737.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001737_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000971.jpeg,IMG000971.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000971_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000884.jpeg,IMG000884.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000884_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000628.jpeg,IMG000628.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000628_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000156.jpeg,IMG000156.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000156_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000571.jpeg,IMG000571.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000571_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000140.jpeg,IMG000140.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000140_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000821.jpeg,IMG000821.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000821_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000991.jpeg,IMG000991.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000991_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001450.jpeg,IMG001450.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001450_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000809.jpeg,IMG000809.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000809_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001457.jpeg,IMG001457.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001457_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000505.jpeg,IMG000505.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000505_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000090.jpeg,IMG000090.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000090_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000067.jpeg,IMG000067.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000067_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000770.jpeg,IMG000770.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000770_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000819.jpeg,IMG000819.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000819_mask.png,True,giant cell tumor,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001221.jpeg,IMG001221.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001221_mask.png,True,synovial osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001803.jpeg,IMG001803.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001803_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000012.jpeg,IMG000012.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000012_mask.png,True,other mt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000581.jpeg,IMG000581.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000581_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000729.jpeg,IMG000729.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000729_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000026.jpeg,IMG000026.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000026_mask.png,True,other mt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000994.jpeg,IMG000994.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000994_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001479.jpeg,IMG001479.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001479_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000856.jpeg,IMG000856.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000856_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000945.jpeg,IMG000945.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000945_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000194.jpeg,IMG000194.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000194_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000483.jpeg,IMG000483.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000483_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001854.jpeg,IMG001854.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001854_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001642.jpeg,IMG001642.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001642_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001556.jpeg,IMG001556.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001556_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000475.jpeg,IMG000475.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000475_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000383.jpeg,IMG000383.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000383_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001322.jpeg,IMG001322.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001322_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000570.jpeg,IMG000570.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000570_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001171.jpeg,IMG001171.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001171_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001356.jpeg,IMG001356.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001356_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000174.jpeg,IMG000174.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000174_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000433.jpeg,IMG000433.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000433_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000588.jpeg,IMG000588.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000588_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001016.jpeg,IMG001016.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001016_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001855.jpeg,IMG001855.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001855_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001213.jpeg,IMG001213.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001213_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001609.jpeg,IMG001609.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001609_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001079.jpeg,IMG001079.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001079_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000920.jpeg,IMG000920.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000920_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000189.jpeg,IMG000189.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000189_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000411.jpeg,IMG000411.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000411_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001637.jpeg,IMG001637.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001637_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001650.jpeg,IMG001650.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001650_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001128.jpeg,IMG001128.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001128_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001578.jpeg,IMG001578.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001578_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000466.jpeg,IMG000466.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000466_mask.png,True,giant cell tumor,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000365.jpeg,IMG000365.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000365_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000457.jpeg,IMG000457.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000457_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000888.jpeg,IMG000888.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000888_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001597.jpeg,IMG001597.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001597_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001788.jpeg,IMG001788.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001788_mask.png,True,osteofibroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000354.jpeg,IMG000354.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000354_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000216.jpeg,IMG000216.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000216_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000444.jpeg,IMG000444.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000444_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001151.jpeg,IMG001151.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001151_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001043.jpeg,IMG001043.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001043_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001553.jpeg,IMG001553.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001553_mask.png,True,giant cell tumor,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001499.jpeg,IMG001499.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001499_mask.png,True,giant cell tumor,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000061.jpeg,IMG000061.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000061_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000989.jpeg,IMG000989.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000989_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000164.jpeg,IMG000164.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000164_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001113.jpeg,IMG001113.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001113_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001126.jpeg,IMG001126.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001126_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001851.jpeg,IMG001851.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001851_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000044.jpeg,IMG000044.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000044_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000808.jpeg,IMG000808.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000808_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000201.jpeg,IMG000201.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000201_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001836.jpeg,IMG001836.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001836_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001137.jpeg,IMG001137.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001137_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000386.jpeg,IMG000386.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000386_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001090.jpeg,IMG001090.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001090_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000984.jpeg,IMG000984.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000984_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000291.jpeg,IMG000291.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000291_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000173.jpeg,IMG000173.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000173_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001759.jpeg,IMG001759.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001759_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001024.jpeg,IMG001024.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001024_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000356.jpeg,IMG000356.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000356_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001264.jpeg,IMG001264.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001264_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000675.jpeg,IMG000675.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000675_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001657.jpeg,IMG001657.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001657_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001237.jpeg,IMG001237.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001237_mask.png,True,synovial osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000718.jpeg,IMG000718.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000718_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001744.jpeg,IMG001744.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001744_mask.png,True,giant cell tumor,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000288.jpeg,IMG000288.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000288_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000660.jpeg,IMG000660.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000660_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000191.jpeg,IMG000191.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000191_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001532.jpeg,IMG001532.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001532_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000781.jpeg,IMG000781.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000781_mask.png,True,giant cell tumor,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000143.jpeg,IMG000143.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000143_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000895.jpeg,IMG000895.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000895_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001584.jpeg,IMG001584.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001584_mask.png,True,synovial osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001316.jpeg,IMG001316.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001316_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001814.jpeg,IMG001814.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001814_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000461.jpeg,IMG000461.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000461_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000785.jpeg,IMG000785.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000785_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000025.jpeg,IMG000025.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000025_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000170.jpeg,IMG000170.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000170_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000075.jpeg,IMG000075.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000075_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000598.jpeg,IMG000598.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000598_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001064.jpeg,IMG001064.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001064_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000694.jpeg,IMG000694.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000694_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000954.jpeg,IMG000954.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000954_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000335.jpeg,IMG000335.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000335_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001627.jpeg,IMG001627.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001627_mask.png,True,simple bone cyst,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000862.jpeg,IMG000862.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000862_mask.png,True,other bt,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000334.jpeg,IMG000334.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000334_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000233.jpeg,IMG000233.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000233_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001086.jpeg,IMG001086.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001086_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001574.jpeg,IMG001574.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001574_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001334.jpeg,IMG001334.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001334_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001273.jpeg,IMG001273.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001273_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000162.jpeg,IMG000162.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000162_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000169.jpeg,IMG000169.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000169_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000413.jpeg,IMG000413.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000413_mask.png,True,osteofibroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001318.jpeg,IMG001318.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001318_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001571.jpeg,IMG001571.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001571_mask.png,True,osteochondroma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000013.jpeg,IMG000013.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000013_mask.png,True,osteosarcoma,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG000298.jpeg,IMG000298.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG000298_mask.png,True,multiple osteochondromas,1
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\images_resized\IMG001726.jpeg,IMG001726.jpeg,c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\segmentation_masks\IMG001726_mask.png,True,giant cell tumor,1
