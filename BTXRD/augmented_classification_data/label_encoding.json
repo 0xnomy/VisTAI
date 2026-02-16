@@ -1,0 +1,25 @@
+{
+  "label_to_idx": {
+    "giant cell tumor": 0,
+    "multiple osteochondromas": 1,
+    "osteochondroma": 2,
+    "osteofibroma": 3,
+    "osteosarcoma": 4,
+    "other bt": 5,
+    "other mt": 6,
+    "simple bone cyst": 7,
+    "synovial osteochondroma": 8
+  },
+  "idx_to_label": {
+    "0": "giant cell tumor",
+    "1": "multiple osteochondromas",
+    "2": "osteochondroma",
+    "3": "osteofibroma",
+    "4": "osteosarcoma",
+    "5": "other bt",
+    "6": "other mt",
+    "7": "simple bone cyst",
+    "8": "synovial osteochondroma"
+  },
+  "num_classes": 9
+}

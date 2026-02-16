@@ -1,0 +1,562 @@
+image_path,labels,augmented
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000845_orig.png,other bt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000845_aug1.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000845_aug2.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001375_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001375_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001375_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000973_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000973_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000973_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001120_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001120_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001120_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000635_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000635_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000635_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG001190_orig.png,synovial osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG001190_aug1.png,synovial osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG001190_aug2.png,synovial osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001092_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001092_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001092_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000477_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000477_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000477_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001319_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001319_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001319_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG000020_orig.png,other mt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG000020_aug1.png,other mt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG000020_aug2.png,other mt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000957_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000957_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000957_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000691_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000691_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000691_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000683_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000683_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000683_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000168_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000168_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000168_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001667_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001667_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001667_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001598_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001598_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001598_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001528_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001528_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001528_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000707_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000707_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000707_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001821_orig.png,other bt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001821_aug1.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001821_aug2.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000237_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000237_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000237_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000924_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000924_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000924_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000310_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000310_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000310_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001862_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001862_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001862_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000664_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000664_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000664_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001165_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001165_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001165_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000654_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000654_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000654_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001359_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001359_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001359_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG000220_orig.png,other mt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG000220_aug1.png,other mt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG000220_aug2.png,other mt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000130_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000130_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000130_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001454_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001454_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001454_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001762_orig.png,giant cell tumor,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001762_aug1.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001762_aug2.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG000031_orig.png,other mt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG000031_aug1.png,other mt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG000031_aug2.png,other mt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001240_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001240_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001240_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001084_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001084_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001084_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000969_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000969_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000969_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000385_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000385_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000385_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001564_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001564_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001564_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000491_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000491_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000491_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001498_orig.png,giant cell tumor,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001498_aug1.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001498_aug2.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001124_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001124_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001124_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001226_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001226_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001226_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001601_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001601_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001601_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001801_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001801_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001801_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000787_orig.png,other bt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000787_aug1.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000787_aug2.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001859_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001859_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001859_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001068_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001068_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001068_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000966_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000966_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000966_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000027_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000027_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000027_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000325_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000325_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000325_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000358_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000358_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000358_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000414_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000414_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000414_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000262_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000262_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000262_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000269_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000269_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000269_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001094_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001094_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001094_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000825_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000825_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000825_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000554_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000554_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000554_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001146_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001146_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001146_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000361_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000361_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000361_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000467_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000467_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000467_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000362_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000362_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000362_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001145_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001145_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001145_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000745_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000745_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000745_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000979_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000979_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000979_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000463_orig.png,giant cell tumor,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000463_aug1.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000463_aug2.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001677_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001677_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001677_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001034_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001034_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001034_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001806_orig.png,other bt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001806_aug1.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001806_aug2.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001631_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001631_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001631_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001615_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001615_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001615_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001252_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001252_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001252_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001563_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001563_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001563_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000345_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000345_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000345_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001382_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001382_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001382_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000309_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000309_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000309_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001411_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001411_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001411_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001561_orig.png,giant cell tumor,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001561_aug1.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001561_aug2.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001101_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001101_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001101_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000206_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000206_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000206_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000464_orig.png,giant cell tumor,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000464_aug1.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000464_aug2.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000766_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000766_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000766_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000153_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000153_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000153_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001483_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001483_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001483_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG001239_orig.png,synovial osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG001239_aug1.png,synovial osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG001239_aug2.png,synovial osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001742_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001742_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001742_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000834_orig.png,other bt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000834_aug1.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000834_aug2.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000037_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000037_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000037_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG000805_orig.png,synovial osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG000805_aug1.png,synovial osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG000805_aug2.png,synovial osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000370_orig.png,giant cell tumor,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000370_aug1.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000370_aug2.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000141_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000141_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000141_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001636_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001636_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001636_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001271_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001271_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001271_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000258_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000258_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000258_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000160_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000160_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000160_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000639_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000639_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000639_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000009_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000009_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000009_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000546_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000546_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000546_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001418_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001418_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001418_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001071_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001071_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001071_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000125_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000125_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000125_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001156_orig.png,other bt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001156_aug1.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001156_aug2.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001753_orig.png,other bt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001753_aug1.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001753_aug2.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000469_orig.png,other bt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000469_aug1.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000469_aug2.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG001182_orig.png,synovial osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG001182_aug1.png,synovial osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG001182_aug2.png,synovial osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001192_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001192_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001192_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001302_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001302_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001302_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000849_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000849_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000849_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000577_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000577_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000577_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000693_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000693_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000693_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000721_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000721_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000721_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001573_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001573_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001573_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001465_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001465_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001465_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000524_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000524_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000524_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001315_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001315_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001315_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001370_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001370_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001370_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000936_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000936_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000936_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000741_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000741_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000741_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001284_orig.png,other bt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001284_aug1.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG001284_aug2.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001583_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001583_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001583_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG001439_orig.png,other mt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG001439_aug1.png,other mt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG001439_aug2.png,other mt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001607_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001607_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001607_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000375_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000375_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000375_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000126_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000126_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000126_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000178_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000178_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000178_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG001740_orig.png,other mt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG001740_aug1.png,other mt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other mt\IMG001740_aug2.png,other mt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000352_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000352_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000352_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001452_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001452_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001452_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000631_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000631_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000631_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000115_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000115_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000115_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000212_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000212_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000212_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000390_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000390_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000390_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001687_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001687_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001687_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001513_orig.png,giant cell tumor,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001513_aug1.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001513_aug2.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000028_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000028_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000028_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000229_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000229_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000229_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000136_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000136_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000136_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000144_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000144_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000144_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000402_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000402_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000402_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001160_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001160_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001160_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG000527_orig.png,osteofibroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG000527_aug1.png,osteofibroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG000527_aug2.png,osteofibroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001327_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001327_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001327_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001699_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001699_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001699_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG000650_orig.png,synovial osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG000650_aug1.png,synovial osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\synovial osteochondroma\IMG000650_aug2.png,synovial osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001606_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001606_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001606_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000530_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000530_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG000530_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001649_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001649_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001649_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000187_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000187_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000187_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000523_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000523_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000523_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000228_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000228_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000228_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG000536_orig.png,osteofibroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG000536_aug1.png,osteofibroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG000536_aug2.png,osteofibroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001751_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001751_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001751_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000096_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000096_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000096_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001067_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001067_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001067_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000251_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000251_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000251_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001394_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001394_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001394_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001557_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001557_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001557_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001219_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001219_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001219_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG001654_orig.png,osteofibroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG001654_aug1.png,osteofibroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG001654_aug2.png,osteofibroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001495_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001495_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001495_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001656_orig.png,giant cell tumor,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001656_aug1.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG001656_aug2.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001021_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001021_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001021_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000242_orig.png,giant cell tumor,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000242_aug1.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000242_aug2.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000284_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000284_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000284_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001497_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001497_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001497_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001326_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001326_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001326_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000235_orig.png,giant cell tumor,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000235_aug1.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\giant cell tumor\IMG000235_aug2.png,giant cell tumor,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000724_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000724_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000724_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000295_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000295_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000295_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000456_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000456_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG000456_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000873_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000873_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000873_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001853_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001853_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001853_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001262_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001262_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001262_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001587_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001587_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001587_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001811_orig.png,simple bone cyst,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001811_aug1.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\simple bone cyst\IMG001811_aug2.png,simple bone cyst,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001037_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001037_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001037_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000978_orig.png,other bt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000978_aug1.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000978_aug2.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001625_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001625_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001625_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000910_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000910_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000910_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000977_orig.png,other bt,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000977_aug1.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\other bt\IMG000977_aug2.png,other bt,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000988_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000988_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000988_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001321_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001321_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG001321_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001639_orig.png,multiple osteochondromas,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001639_aug1.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\multiple osteochondromas\IMG001639_aug2.png,multiple osteochondromas,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000529_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000529_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000529_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000879_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000879_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000879_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000314_orig.png,osteochondroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000314_aug1.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteochondroma\IMG000314_aug2.png,osteochondroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000166_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000166_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG000166_aug2.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG000435_orig.png,osteofibroma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG000435_aug1.png,osteofibroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteofibroma\IMG000435_aug2.png,osteofibroma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001377_orig.png,osteosarcoma,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001377_aug1.png,osteosarcoma,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\val\osteosarcoma\IMG001377_aug2.png,osteosarcoma,True
