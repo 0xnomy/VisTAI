@@ -1,0 +1,188 @@
+image_path,image_filename,ground_truth,predicted,confidence,correct
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001608.jpeg,IMG001608.jpeg,osteochondroma,simple bone cyst,0.21647526323795319,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000479.jpeg,IMG000479.jpeg,multiple osteochondromas,multiple osteochondromas,0.45671361684799194,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG000739.jpeg,IMG000739.jpeg,simple bone cyst,simple bone cyst,0.21780036389827728,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000951.jpeg,IMG000951.jpeg,osteochondroma,osteochondroma,0.3647353947162628,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG001612.jpeg,IMG001612.jpeg,simple bone cyst,simple bone cyst,0.52684086561203,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG001845.jpeg,IMG001845.jpeg,other bt,simple bone cyst,0.33373886346817017,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000949.jpeg,IMG000949.jpeg,osteochondroma,osteochondroma,0.28543734550476074,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000122.jpeg,IMG000122.jpeg,osteosarcoma,osteosarcoma,0.46506062150001526,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\giant cell tumor\IMG001526.jpeg,IMG001526.jpeg,giant cell tumor,giant cell tumor,0.629923939704895,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG000794.jpeg,IMG000794.jpeg,simple bone cyst,osteosarcoma,0.3593766391277313,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001032.jpeg,IMG001032.jpeg,osteochondroma,osteochondroma,0.27972713112831116,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG001758.jpeg,IMG001758.jpeg,other bt,other bt,0.5101606845855713,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG001460.jpeg,IMG001460.jpeg,simple bone cyst,simple bone cyst,0.24760951101779938,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001544.jpeg,IMG001544.jpeg,osteochondroma,osteochondroma,0.25138193368911743,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000431.jpeg,IMG000431.jpeg,osteochondroma,osteochondroma,0.3344188630580902,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000368.jpeg,IMG000368.jpeg,osteochondroma,simple bone cyst,0.2603572607040405,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000283.jpeg,IMG000283.jpeg,osteochondroma,simple bone cyst,0.4234735071659088,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000302.jpeg,IMG000302.jpeg,osteochondroma,osteochondroma,0.3729664385318756,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\synovial osteochondroma\IMG001131.jpeg,IMG001131.jpeg,synovial osteochondroma,osteochondroma,0.3944638967514038,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG001860.jpeg,IMG001860.jpeg,simple bone cyst,simple bone cyst,0.478549987077713,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001704.jpeg,IMG001704.jpeg,osteochondroma,osteochondroma,0.29968735575675964,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteofibroma\IMG001653.jpeg,IMG001653.jpeg,osteofibroma,osteofibroma,0.5211026668548584,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG001770.jpeg,IMG001770.jpeg,other bt,osteosarcoma,0.23918738961219788,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000725.jpeg,IMG000725.jpeg,osteochondroma,osteochondroma,0.29496482014656067,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000749.jpeg,IMG000749.jpeg,osteochondroma,osteochondroma,0.3229292929172516,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001091.jpeg,IMG001091.jpeg,multiple osteochondromas,multiple osteochondromas,0.505832850933075,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000754.jpeg,IMG000754.jpeg,osteochondroma,osteofibroma,0.27847301959991455,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG001690.jpeg,IMG001690.jpeg,osteosarcoma,osteosarcoma,0.5026088953018188,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001047.jpeg,IMG001047.jpeg,osteochondroma,osteochondroma,0.36169543862342834,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000266.jpeg,IMG000266.jpeg,osteochondroma,osteochondroma,0.3112325668334961,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other mt\IMG001865.jpeg,IMG001865.jpeg,other mt,osteosarcoma,0.31410351395606995,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001729.jpeg,IMG001729.jpeg,osteochondroma,osteochondroma,0.2459455281496048,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteofibroma\IMG001330.jpeg,IMG001330.jpeg,osteofibroma,osteofibroma,0.20339567959308624,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG001012.jpeg,IMG001012.jpeg,other bt,other bt,0.5869699120521545,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001676.jpeg,IMG001676.jpeg,osteochondroma,other bt,0.5593317151069641,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000399.jpeg,IMG000399.jpeg,multiple osteochondromas,multiple osteochondromas,0.4398135542869568,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001278.jpeg,IMG001278.jpeg,osteochondroma,osteochondroma,0.43298304080963135,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001301.jpeg,IMG001301.jpeg,multiple osteochondromas,multiple osteochondromas,0.47716498374938965,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000306.jpeg,IMG000306.jpeg,osteochondroma,multiple osteochondromas,0.2197449803352356,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000719.jpeg,IMG000719.jpeg,multiple osteochondromas,multiple osteochondromas,0.43945688009262085,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001337.jpeg,IMG001337.jpeg,osteochondroma,osteochondroma,0.30371227860450745,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000878.jpeg,IMG000878.jpeg,osteochondroma,osteochondroma,0.3846479058265686,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG001782.jpeg,IMG001782.jpeg,other bt,other bt,0.24351565539836884,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other mt\IMG000032.jpeg,IMG000032.jpeg,other mt,simple bone cyst,0.5063794255256653,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\synovial osteochondroma\IMG001234.jpeg,IMG001234.jpeg,synovial osteochondroma,osteochondroma,0.3775891661643982,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG000788.jpeg,IMG000788.jpeg,other bt,simple bone cyst,0.4892406463623047,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001143.jpeg,IMG001143.jpeg,multiple osteochondromas,multiple osteochondromas,0.44360238313674927,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001087.jpeg,IMG001087.jpeg,multiple osteochondromas,multiple osteochondromas,0.41470056772232056,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\giant cell tumor\IMG001512.jpeg,IMG001512.jpeg,giant cell tumor,other bt,0.21149148046970367,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000192.jpeg,IMG000192.jpeg,osteosarcoma,simple bone cyst,0.29310500621795654,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000860.jpeg,IMG000860.jpeg,osteochondroma,osteochondroma,0.2606317102909088,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG000596.jpeg,IMG000596.jpeg,simple bone cyst,simple bone cyst,0.3906485140323639,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000409.jpeg,IMG000409.jpeg,osteochondroma,osteochondroma,0.27417513728141785,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001392.jpeg,IMG001392.jpeg,osteochondroma,osteochondroma,0.18993616104125977,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteofibroma\IMG000614.jpeg,IMG000614.jpeg,osteofibroma,osteofibroma,0.7423335909843445,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000816.jpeg,IMG000816.jpeg,multiple osteochondromas,multiple osteochondromas,0.4950096607208252,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000892.jpeg,IMG000892.jpeg,osteochondroma,osteochondroma,0.2620474398136139,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG001783.jpeg,IMG001783.jpeg,other bt,other bt,0.48869168758392334,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG001757.jpeg,IMG001757.jpeg,other bt,simple bone cyst,0.23219355940818787,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000746.jpeg,IMG000746.jpeg,osteochondroma,osteochondroma,0.3124311864376068,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG001737.jpeg,IMG001737.jpeg,simple bone cyst,simple bone cyst,0.5086700320243835,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000971.jpeg,IMG000971.jpeg,multiple osteochondromas,osteofibroma,0.6999659538269043,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000884.jpeg,IMG000884.jpeg,osteochondroma,other bt,0.308030903339386,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG000628.jpeg,IMG000628.jpeg,simple bone cyst,simple bone cyst,0.24642649292945862,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000156.jpeg,IMG000156.jpeg,osteosarcoma,giant cell tumor,0.49279749393463135,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000571.jpeg,IMG000571.jpeg,multiple osteochondromas,multiple osteochondromas,0.5040948390960693,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000140.jpeg,IMG000140.jpeg,osteosarcoma,osteosarcoma,0.3448103666305542,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG000821.jpeg,IMG000821.jpeg,other bt,other bt,0.6311583518981934,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000991.jpeg,IMG000991.jpeg,osteochondroma,osteochondroma,0.3912945091724396,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001450.jpeg,IMG001450.jpeg,osteochondroma,osteochondroma,0.307902991771698,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000809.jpeg,IMG000809.jpeg,osteochondroma,osteochondroma,0.2286996990442276,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001457.jpeg,IMG001457.jpeg,osteochondroma,osteochondroma,0.2663293778896332,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000505.jpeg,IMG000505.jpeg,osteochondroma,osteochondroma,0.21478749811649323,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000090.jpeg,IMG000090.jpeg,osteosarcoma,osteosarcoma,0.39175945520401,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000067.jpeg,IMG000067.jpeg,osteosarcoma,osteosarcoma,0.319232702255249,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000770.jpeg,IMG000770.jpeg,osteochondroma,osteochondroma,0.258525013923645,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\giant cell tumor\IMG000819.jpeg,IMG000819.jpeg,giant cell tumor,osteosarcoma,0.48937100172042847,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\synovial osteochondroma\IMG001221.jpeg,IMG001221.jpeg,synovial osteochondroma,synovial osteochondroma,0.6845870614051819,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001803.jpeg,IMG001803.jpeg,multiple osteochondromas,multiple osteochondromas,0.35930296778678894,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other mt\IMG000012.jpeg,IMG000012.jpeg,other mt,other mt,0.42422792315483093,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000581.jpeg,IMG000581.jpeg,osteochondroma,osteofibroma,0.28297170996665955,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000729.jpeg,IMG000729.jpeg,osteochondroma,simple bone cyst,0.23833003640174866,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other mt\IMG000026.jpeg,IMG000026.jpeg,other mt,simple bone cyst,0.47904086112976074,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000994.jpeg,IMG000994.jpeg,multiple osteochondromas,multiple osteochondromas,0.4948950707912445,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001479.jpeg,IMG001479.jpeg,osteochondroma,osteochondroma,0.290219783782959,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000856.jpeg,IMG000856.jpeg,osteochondroma,osteochondroma,0.2516706883907318,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000945.jpeg,IMG000945.jpeg,multiple osteochondromas,multiple osteochondromas,0.3893202841281891,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000194.jpeg,IMG000194.jpeg,osteosarcoma,osteosarcoma,0.51865553855896,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000483.jpeg,IMG000483.jpeg,osteochondroma,osteochondroma,0.3287458121776581,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG001854.jpeg,IMG001854.jpeg,simple bone cyst,simple bone cyst,0.5420145988464355,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001642.jpeg,IMG001642.jpeg,multiple osteochondromas,multiple osteochondromas,0.4833236634731293,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001556.jpeg,IMG001556.jpeg,multiple osteochondromas,multiple osteochondromas,0.4868408143520355,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000475.jpeg,IMG000475.jpeg,multiple osteochondromas,multiple osteochondromas,0.39534133672714233,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000383.jpeg,IMG000383.jpeg,osteochondroma,osteofibroma,0.2578164339065552,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001322.jpeg,IMG001322.jpeg,osteochondroma,osteochondroma,0.28131571412086487,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000570.jpeg,IMG000570.jpeg,multiple osteochondromas,multiple osteochondromas,0.3438970148563385,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG001171.jpeg,IMG001171.jpeg,simple bone cyst,simple bone cyst,0.20704084634780884,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001356.jpeg,IMG001356.jpeg,multiple osteochondromas,simple bone cyst,0.22800882160663605,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000174.jpeg,IMG000174.jpeg,osteosarcoma,other bt,0.19595368206501007,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG000433.jpeg,IMG000433.jpeg,simple bone cyst,simple bone cyst,0.3726890981197357,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG000588.jpeg,IMG000588.jpeg,other bt,osteochondroma,0.3503214418888092,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001016.jpeg,IMG001016.jpeg,osteochondroma,osteochondroma,0.39383113384246826,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG001855.jpeg,IMG001855.jpeg,simple bone cyst,simple bone cyst,0.5725396871566772,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001213.jpeg,IMG001213.jpeg,osteochondroma,osteochondroma,0.4044148921966553,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001609.jpeg,IMG001609.jpeg,osteochondroma,simple bone cyst,0.35763201117515564,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001079.jpeg,IMG001079.jpeg,multiple osteochondromas,multiple osteochondromas,0.3985103666782379,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000920.jpeg,IMG000920.jpeg,osteochondroma,osteochondroma,0.436628133058548,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000189.jpeg,IMG000189.jpeg,osteosarcoma,osteosarcoma,0.517871618270874,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG000411.jpeg,IMG000411.jpeg,simple bone cyst,simple bone cyst,0.190372496843338,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001637.jpeg,IMG001637.jpeg,multiple osteochondromas,simple bone cyst,0.40804150700569153,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG001650.jpeg,IMG001650.jpeg,osteosarcoma,osteosarcoma,0.4155900180339813,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001128.jpeg,IMG001128.jpeg,osteochondroma,other bt,0.24679216742515564,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG001578.jpeg,IMG001578.jpeg,osteosarcoma,osteosarcoma,0.23467421531677246,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\giant cell tumor\IMG000466.jpeg,IMG000466.jpeg,giant cell tumor,giant cell tumor,0.627047598361969,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000365.jpeg,IMG000365.jpeg,osteochondroma,other bt,0.2319103181362152,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000457.jpeg,IMG000457.jpeg,multiple osteochondromas,multiple osteochondromas,0.3505041003227234,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000888.jpeg,IMG000888.jpeg,osteochondroma,osteochondroma,0.30274778604507446,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG001597.jpeg,IMG001597.jpeg,simple bone cyst,simple bone cyst,0.4989914894104004,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteofibroma\IMG001788.jpeg,IMG001788.jpeg,osteofibroma,other bt,0.6649985313415527,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000354.jpeg,IMG000354.jpeg,osteochondroma,osteochondroma,0.29522496461868286,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000216.jpeg,IMG000216.jpeg,osteosarcoma,osteosarcoma,0.45124050974845886,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000444.jpeg,IMG000444.jpeg,osteochondroma,osteochondroma,0.25128552317619324,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001151.jpeg,IMG001151.jpeg,osteochondroma,osteochondroma,0.2646859884262085,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001043.jpeg,IMG001043.jpeg,osteochondroma,osteochondroma,0.3767997920513153,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\giant cell tumor\IMG001553.jpeg,IMG001553.jpeg,giant cell tumor,giant cell tumor,0.5722016096115112,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\giant cell tumor\IMG001499.jpeg,IMG001499.jpeg,giant cell tumor,other bt,0.3776436150074005,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000061.jpeg,IMG000061.jpeg,osteosarcoma,osteosarcoma,0.3030473589897156,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000989.jpeg,IMG000989.jpeg,osteochondroma,osteochondroma,0.2906656563282013,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000164.jpeg,IMG000164.jpeg,osteosarcoma,osteosarcoma,0.5069634318351746,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001113.jpeg,IMG001113.jpeg,osteochondroma,osteochondroma,0.2986873388290405,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001126.jpeg,IMG001126.jpeg,osteochondroma,osteochondroma,0.4157412648200989,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG001851.jpeg,IMG001851.jpeg,simple bone cyst,simple bone cyst,0.5261121392250061,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000044.jpeg,IMG000044.jpeg,osteosarcoma,osteosarcoma,0.46187150478363037,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG000808.jpeg,IMG000808.jpeg,simple bone cyst,other bt,0.1910516917705536,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000201.jpeg,IMG000201.jpeg,osteosarcoma,osteosarcoma,0.4694015681743622,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001836.jpeg,IMG001836.jpeg,osteochondroma,osteochondroma,0.21288099884986877,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001137.jpeg,IMG001137.jpeg,osteochondroma,osteochondroma,0.29011645913124084,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000386.jpeg,IMG000386.jpeg,osteochondroma,osteofibroma,0.23406879603862762,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001090.jpeg,IMG001090.jpeg,multiple osteochondromas,multiple osteochondromas,0.2947762608528137,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000984.jpeg,IMG000984.jpeg,osteochondroma,osteochondroma,0.2297448068857193,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000291.jpeg,IMG000291.jpeg,osteochondroma,osteofibroma,0.22170209884643555,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000173.jpeg,IMG000173.jpeg,osteosarcoma,osteosarcoma,0.2838580310344696,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001759.jpeg,IMG001759.jpeg,osteochondroma,simple bone cyst,0.27384424209594727,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001024.jpeg,IMG001024.jpeg,osteochondroma,osteochondroma,0.329177588224411,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000356.jpeg,IMG000356.jpeg,osteochondroma,osteochondroma,0.27562665939331055,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001264.jpeg,IMG001264.jpeg,osteochondroma,simple bone cyst,0.2000362128019333,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG000675.jpeg,IMG000675.jpeg,simple bone cyst,osteochondroma,0.27281540632247925,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG001657.jpeg,IMG001657.jpeg,osteosarcoma,other mt,0.3432774841785431,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\synovial osteochondroma\IMG001237.jpeg,IMG001237.jpeg,synovial osteochondroma,synovial osteochondroma,0.4925539195537567,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000718.jpeg,IMG000718.jpeg,multiple osteochondromas,multiple osteochondromas,0.4680015742778778,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\giant cell tumor\IMG001744.jpeg,IMG001744.jpeg,giant cell tumor,giant cell tumor,0.26856452226638794,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG000288.jpeg,IMG000288.jpeg,simple bone cyst,simple bone cyst,0.36665481328964233,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000660.jpeg,IMG000660.jpeg,multiple osteochondromas,multiple osteochondromas,0.49051666259765625,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000191.jpeg,IMG000191.jpeg,osteosarcoma,osteosarcoma,0.5728742480278015,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG001532.jpeg,IMG001532.jpeg,osteosarcoma,osteosarcoma,0.4696982502937317,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\giant cell tumor\IMG000781.jpeg,IMG000781.jpeg,giant cell tumor,giant cell tumor,0.6432029604911804,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000143.jpeg,IMG000143.jpeg,osteosarcoma,osteosarcoma,0.33648428320884705,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000895.jpeg,IMG000895.jpeg,osteochondroma,osteochondroma,0.27337658405303955,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\synovial osteochondroma\IMG001584.jpeg,IMG001584.jpeg,synovial osteochondroma,simple bone cyst,0.21647533774375916,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001316.jpeg,IMG001316.jpeg,osteochondroma,osteochondroma,0.37363412976264954,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG001814.jpeg,IMG001814.jpeg,other bt,osteochondroma,0.19568437337875366,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000461.jpeg,IMG000461.jpeg,osteochondroma,osteochondroma,0.3965998888015747,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG000785.jpeg,IMG000785.jpeg,simple bone cyst,simple bone cyst,0.3633615970611572,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000025.jpeg,IMG000025.jpeg,osteosarcoma,osteosarcoma,0.4421007037162781,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000170.jpeg,IMG000170.jpeg,osteosarcoma,osteosarcoma,0.43723273277282715,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000075.jpeg,IMG000075.jpeg,osteosarcoma,osteosarcoma,0.3871258795261383,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG000598.jpeg,IMG000598.jpeg,simple bone cyst,simple bone cyst,0.5246637463569641,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001064.jpeg,IMG001064.jpeg,osteochondroma,osteochondroma,0.3676256835460663,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000694.jpeg,IMG000694.jpeg,osteochondroma,simple bone cyst,0.27510663866996765,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000954.jpeg,IMG000954.jpeg,osteochondroma,osteochondroma,0.26328474283218384,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000335.jpeg,IMG000335.jpeg,osteochondroma,osteochondroma,0.2835153043270111,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\simple bone cyst\IMG001627.jpeg,IMG001627.jpeg,simple bone cyst,osteochondroma,0.29676786065101624,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\other bt\IMG000862.jpeg,IMG000862.jpeg,other bt,other bt,0.5917808413505554,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG000334.jpeg,IMG000334.jpeg,osteochondroma,osteochondroma,0.25498905777931213,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000233.jpeg,IMG000233.jpeg,osteosarcoma,osteosarcoma,0.44490230083465576,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG001086.jpeg,IMG001086.jpeg,multiple osteochondromas,multiple osteochondromas,0.39083242416381836,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG001574.jpeg,IMG001574.jpeg,osteosarcoma,other bt,0.2211141586303711,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001334.jpeg,IMG001334.jpeg,osteochondroma,osteofibroma,0.1904844492673874,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001273.jpeg,IMG001273.jpeg,osteochondroma,osteochondroma,0.3750115633010864,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000162.jpeg,IMG000162.jpeg,osteosarcoma,osteosarcoma,0.4955693185329437,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000169.jpeg,IMG000169.jpeg,osteosarcoma,osteosarcoma,0.3287247121334076,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteofibroma\IMG000413.jpeg,IMG000413.jpeg,osteofibroma,osteofibroma,0.6587242484092712,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001318.jpeg,IMG001318.jpeg,osteochondroma,osteochondroma,0.39576441049575806,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteochondroma\IMG001571.jpeg,IMG001571.jpeg,osteochondroma,osteochondroma,0.25285059213638306,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\osteosarcoma\IMG000013.jpeg,IMG000013.jpeg,osteosarcoma,simple bone cyst,0.3613790273666382,False
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\multiple osteochondromas\IMG000298.jpeg,IMG000298.jpeg,multiple osteochondromas,multiple osteochondromas,0.5147536993026733,True
+c:\Users\Nauman\Desktop\vistai\FYP\BTXRD\augmented_classification_data\test\giant cell tumor\IMG001726.jpeg,IMG001726.jpeg,giant cell tumor,osteosarcoma,0.317000150680542,False
