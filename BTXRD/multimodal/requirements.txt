@@ -1,0 +1,35 @@
+# Multimodal Medical Image Chat - Requirements
+# ==============================================
+# Requirements for VLM-powered chat extension to BTXRD project
+
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Vision-Language Model (CLIP)
+open-clip-torch>=2.20.0
+
+# Language Model (LLM)
+transformers>=4.35.0
+accelerate>=0.24.0
+bitsandbytes>=0.41.0  # For 4-bit/8-bit quantization
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+pillow>=10.0.0
+
+# Existing BTXRD Dependencies (if not already installed)
+scikit-learn>=1.3.0
+pyyaml>=6.0.0
+tqdm>=4.66.0
+matplotlib>=3.7.0
+opencv-python>=4.8.0
+
+# Optional: For testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Optional: For development
+ipython>=8.12.0
+jupyter>=1.0.0
