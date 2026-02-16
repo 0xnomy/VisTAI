@@ -1,0 +1,98 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Model checkpoints and weights (large files)
+*.pth
+*.ckpt
+*.h5
+*.pkl
+*.bin
+*.safetensors
+
+# Output directories with trained models
+outputs/
+**/outputs/
+classification_results/
+segmentation_results/
+segmentation_results_full/
+inference_results/
+inference_results_full/
+gradcam_results/
+failure_analysis/
+
+# Pretrained models
+pretrained/
+**/pretrained/
+
+# Dataset and data files (typically large)
+*.csv
+*.npy
+*.npz
+images_resized/
+augmented_classification_data/train/
+augmented_classification_data/test/
+augmented_classification_data/val/
+segmentation_masks/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+.next/
+.turbo/
+*.tsbuildinfo
+next-env.d.ts
+
+# Backend uploads
+uploads/
+**/uploads/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Test coverage
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# OS files
+Thumbs.db
+Desktop.ini
