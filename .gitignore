@@ -43,9 +43,9 @@ outputs/
 # Large dataset files
 images_resized/
 segmentation_masks/
-augmented_classification_data/train/
-augmented_classification_data/test/
-augmented_classification_data/val/
+**/augmented_classification_data/train/
+**/augmented_classification_data/test/
+**/augmented_classification_data/val/
 
 # Logs
 *.log
