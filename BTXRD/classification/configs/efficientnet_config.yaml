@@ -1,0 +1,94 @@
+# EfficientNet-B0 Classification Configuration
+# ============================================
+
+# Model
+model:
+  name: 'efficientnet_b0'
+  num_classes: 9
+  pretrained: true
+  dropout: 0.5  # Increased from 0.3 to reduce overfitting
+
+# Training
+training:
+  # Two-phase training strategy
+  phase1_epochs: 20  # Train with frozen backbone
+  phase2_epochs: 80  # Fine-tune end-to-end (increased for better convergence)
+  total_epochs: 100
+  
+  batch_size: 24  # Reduced from 32 for more weight updates
+  num_workers: 4
+  pin_memory: true
+  
+  # Optimizer
+  optimizer:
+    name: 'AdamW'
+    lr_phase1: 0.001      # Higher LR for frozen backbone
+    lr_phase2: 0.00005    # Lower LR for stable fine-tuning
+    weight_decay: 0.05    # Increased from 0.01 for stronger regularization
+    betas: [0.9, 0.999]
+  
+  # Learning rate scheduler
+  scheduler:
+    name: 'ReduceLROnPlateau'
+    mode: 'max'           # Monitor validation accuracy
+    factor: 0.5
+    patience: 5
+    min_lr: 0.000001
+  
+  # Loss function
+  loss:
+    name: 'FocalLoss'
+    gamma: 2.0
+    use_class_weights: true  # Compute from training data
+  
+  # Regularization
+  use_ema: true
+  ema_decay: 0.999
+  gradient_clip: 1.0
+  use_mixed_precision: true
+  
+  # Early stopping
+  early_stopping:
+    enabled: true
+    patience: 20  # Increased from 15 for longer convergence
+    monitor: 'val_accuracy'
+    mode: 'max'
+
+# Data
+data:
+  # Use augmented dataset (9K images) or original (1.5K images)
+  use_augmented: true
+  
+  # Paths (will be constructed relative to project root)
+  augmented_train_csv: 'augmented_classification_data/augmented_train.csv'
+  augmented_val_csv: 'augmented_classification_data/augmented_val.csv'
+  augmented_test_csv: 'augmented_classification_data/augmented_test.csv'
+  
+  original_train_csv: 'segmentation_train.csv'
+  original_val_csv: 'segmentation_val.csv'
+  original_test_csv: 'segmentation_test.csv'
+  
+  label_encoding: 'label_encoding.json'
+  
+  image_size: 224
+
+# Output
+output:
+  save_dir: 'classification/outputs/efficientnet_b0_v2'
+  checkpoint_dir: 'checkpoints'
+  log_dir: 'logs'
+  results_dir: 'results'
+  
+  save_frequency: 5  # Save checkpoint every N epochs
+  save_best_only: true
+
+# Logging
+logging:
+  use_tensorboard: false
+  log_frequency: 10  # Log every N batches
+  
+# Random seed for reproducibility
+seed: 42
+
+# Device
+device: 'cuda'  # or 'cpu'

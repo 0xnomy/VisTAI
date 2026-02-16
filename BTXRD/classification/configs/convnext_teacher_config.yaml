@@ -1,0 +1,105 @@
+# ConvNeXt Teacher Model Configuration
+# ========================================
+# Large capacity model for knowledge distillation source
+
+# Model
+model:
+  name: 'convnext_teacher'
+  model_size: 'small'  # 'tiny' (28M), 'small' (50M), 'base' (89M)
+  num_classes: 9
+  pretrained: true  # ImageNet-22K → ImageNet-1K weights
+  dropout: 0.3
+
+# Training
+training:
+  # Two-phase training
+  phase1_epochs: 15  # Train classifier head with frozen backbone
+  phase2_epochs: 60  # Fine-tune entire network
+  total_epochs: 75
+  
+  batch_size: 16  # Larger model needs smaller batch
+  num_workers: 4
+  pin_memory: true
+  
+  # Optimizer
+  optimizer:
+    name: 'AdamW'
+    lr_phase1: 0.001      # Higher LR for frozen backbone
+    lr_phase2: 0.00003    # Lower LR for fine-tuning (ConvNeXt sensitive)
+    weight_decay: 0.05
+    betas: [0.9, 0.999]
+  
+  # Learning rate scheduler
+  scheduler:
+    name: 'CosineAnnealingWarmRestarts'  # Better for transformers
+    T_0: 10  # Restart every 10 epochs
+    T_mult: 2
+    eta_min: 0.000001
+  
+  # Loss function
+  loss:
+    name: 'FocalLoss'
+    gamma: 2.0
+    use_class_weights: true
+  
+  # Regularization
+  use_ema: true
+  ema_decay: 0.9999  # Higher for teacher
+  gradient_clip: 1.0
+  use_mixed_precision: true
+  
+  # Early stopping
+  early_stopping:
+    enabled: true
+    patience: 20
+    monitor: 'val_accuracy'
+    mode: 'max'
+  
+  # Label smoothing for teacher (prevents overconfidence)
+  label_smoothing: 0.1
+
+# Data
+data:
+  use_augmented: true
+  
+  augmented_train_csv: 'augmented_classification_data/augmented_train.csv'
+  augmented_val_csv: 'augmented_classification_data/augmented_val.csv'
+  augmented_test_csv: 'augmented_classification_data/augmented_test.csv'
+  
+  original_train_csv: 'segmentation_train.csv'
+  original_val_csv: 'segmentation_val.csv'
+  original_test_csv: 'segmentation_test.csv'
+  
+  label_encoding: 'label_encoding.json'
+  
+  image_size: 224  # ConvNeXt uses 224x224
+  
+  # Stronger augmentation for teacher
+  augmentation:
+    use_autoaugment: true
+    use_random_erasing: true
+    random_erasing_prob: 0.25
+
+# Output
+output:
+  save_dir: 'classification/outputs/convnext_teacher'
+  checkpoint_dir: 'checkpoints'
+  log_dir: 'logs'
+  results_dir: 'results'
+  
+  save_frequency: 5
+  save_best_only: true
+  
+  # Save features for distillation
+  save_features: true
+
+# Logging
+logging:
+  use_tensorboard: false
+  log_frequency: 10
+
+# Random seed
+seed: 42
+
+# Device
+device: 'cuda'
