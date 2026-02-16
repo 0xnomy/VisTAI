@@ -1,0 +1,86 @@
+# Knowledge Distillation Configuration for Medical Segmentation
+
+# Paths
+data:
+  train_csv: "train.csv"
+  val_csv: "val.csv"
+  test_csv: "test.csv"
+  image_size: 224
+  num_workers: 0
+
+# Teacher Model
+teacher:
+  checkpoint: "pretrained/swin_unet_teacher.pth"
+  architecture: "swin_unet"
+  image_size: 224
+  num_classes: 1
+  deep_supervision: true
+
+# Student Model
+student:
+  architecture: "segformer_b2"
+  image_size: 224
+  num_classes: 1
+  pretrained: true
+
+# Knowledge Distillation
+distillation:
+  temperature: 4.0
+  response_weight: 0.3
+  feature_weight: 0.3
+  task_weight: 0.4
+  feature_layers: [0, 1, 2]  # Decoder stages to match
+
+# Training Configuration
+training:
+  # Phase 1: Decoder warm-up
+  phase1:
+    epochs: 25
+    lr: 1.0e-3
+    freeze_encoder: true
+    batch_size: 8
+  
+  # Phase 2: Full KD training
+  phase2:
+    epochs: 75
+    lr: 1.0e-4
+    freeze_encoder: false
+    batch_size: 8
+  
+  # Optimizer
+  optimizer:
+    type: "adamw"
+    weight_decay: 0.01
+    betas: [0.9, 0.999]
+  
+  # Scheduler
+  scheduler:
+    type: "cosine"
+    min_lr: 1.0e-6
+  
+  # Mixed Precision
+  amp: true
+  
+  # Checkpointing
+  save_dir: "outputs/kd_student"
+  save_best_only: false
+  early_stopping_patience: 20
+
+# Augmentation
+augmentation:
+  horizontal_flip: 0.5
+  vertical_flip: 0.5
+  rotation_limit: 15
+  brightness_contrast: 0.3
+  gaussian_blur: 0.2
+  elastic_transform: 0.3
+
+# Validation
+validation:
+  interval: 1  # Validate every N epochs
+  metric: "dice"  # Metric for best model selection
+
+# Inference
+inference:
+  threshold: 0.5
+  batch_size: 1
